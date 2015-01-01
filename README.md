@@ -11,9 +11,9 @@ DESCRIPTION
 SETUP
 =====
 
-cd /var/tmp
-git clone http://github.com/silps/egle.git
-git clone http://github.com/damellis/attiny.git
+* cd /var/tmp
+* git clone http://github.com/silps/egle.git
+* git clone http://github.com/damellis/attiny.git
 
 CREDITS ^-^
 ===========
